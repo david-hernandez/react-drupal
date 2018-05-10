@@ -34,3 +34,14 @@ xmlrpc.php
 /profiles
 /scripts
 /themes
+.csslintrc
+.editorconfig
+.eslintignore
+.eslintrc.json
+.gitattributes
+.ht.router.php
+autoload.php
+vendor
+docroot/core
+docroot/modules/contrib
+docroot/themes/contrib
